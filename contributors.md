@@ -31,3 +31,4 @@ _(People who have participated in the challenges!)_
 - [TheOrangePuff](https:github.com/TheOrangePuff)
 - [Mamat](https://github.com/mamat90)
 - [Arkaprova Deb](https://github.com/arkaprovaz)
+- [Haimantika Mitra](https://github.com/Haimantika)
